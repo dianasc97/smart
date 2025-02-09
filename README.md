@@ -21,9 +21,7 @@ Este é um sistema de gestão de clientes desenvolvido com React, TypeScript, Ta
 
 1️⃣ Clone o Repositório
 
-git clone https:/
-
-/github.com/dianasc97/smart.git
+git clone https://github.com/dianasc97/smart.git
 
 cd smart
 
