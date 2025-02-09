@@ -17,41 +17,24 @@ Este é um sistema de gestão de clientes desenvolvido com React, TypeScript, Ta
 📌 React Icons (ícones visuais)
 
 
-
 🚀 Como Rodar o Projeto
 
 1️⃣ Clone o Repositório
 
-sh
-Copiar
-
-Editar
 git clone https:/
+
 /github.com/dianasc97/smart.git
 
 cd smart
 
 
-
-
 2️⃣ Instale as Dependências
-
-sh
-Copiar
-
-Editar
 
 npm install
 
 3️⃣ Execute o Servidor
 
-sh
-Copiar
-
-Editar
-
 npm start
-
 
 
 📌 Funcionalidades
