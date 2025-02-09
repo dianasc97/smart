@@ -23,7 +23,6 @@ Este é um sistema de gestão de clientes desenvolvido com React, TypeScript, Ta
 1️⃣ Clone o Repositório
 
 sh
-
 Copiar
 
 Editar
@@ -38,7 +37,6 @@ cd smart
 2️⃣ Instale as Dependências
 
 sh
-
 Copiar
 
 Editar
@@ -48,7 +46,6 @@ npm install
 3️⃣ Execute o Servidor
 
 sh
-
 Copiar
 
 Editar
