@@ -1,4 +1,5 @@
 Gestão de Clientes - Smart
+
 Este é um sistema de gestão de clientes desenvolvido com React, TypeScript, Tailwind CSS e LocalStorage para armazenamento de dados localmente.
 
 📦 Tecnologias Utilizadas
